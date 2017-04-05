@@ -1,8 +1,8 @@
 # git.txt
 
 GIT CONFIG 
-git config --global user.name "Andrea Gelsomino"
-git config --global user.email "andrea_gelsomino@hotmail.com"
+git config --global user.name "Maria Rafalovich"
+git config --global user.email "rafalovich.mariya@gmail.com"
 to check  - git config --list
 
 INIT PROJECT
